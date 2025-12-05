@@ -1,0 +1,2 @@
+# substratanica
+AI easy access
